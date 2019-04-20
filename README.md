@@ -1,4 +1,4 @@
-#### Real Time Traffic Monitoring using Darknet ( YOLO ) 
+### Real Time Traffic Monitoring using Darknet ( YOLO ) 
 
 ![REALTIME_TRAFFIC_MONITORING](demo.gif)
 
@@ -36,7 +36,8 @@
     4. Run(test) Realtime object detection with your webcam
             $./run_gpu.sh
 
-#### Things planned as part of this project:
+#### Things planned as part of this project
+
     1. Number of cars crossing a signal 
     2. Number of persons crossing a signal 
     3. Detect anomalies in traffic
@@ -44,7 +45,8 @@
 
 
 #### DATASET
-    1. Microsoft COCO
+
+1. Microsoft COCO
 
 
 
