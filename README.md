@@ -28,8 +28,10 @@
 
     2. Install suitable NVIDIA Driver for your GPU and CUDA ToolKit. 
        For my case it is Nvidia 384 and CUDA 8 [ which can be installed by executing the following script]
-            $./scripts/install_nvidia_cuda_ubuntu16.04.sh
-    
+            $cd ./scripts
+            $./install_nvidia_cuda_ubuntu16.04.sh
+            $cd ..
+
     3. Compile darknet source with gpu
             $./compile_gpu.sh
 
